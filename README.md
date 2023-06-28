@@ -2,4 +2,4 @@
 
 ## Coding Girl
 
-![Codig Girl](./image/ko-dingu.png)
+![Codig Girl](././image/ko-dingu.png)
